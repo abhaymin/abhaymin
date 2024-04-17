@@ -176,6 +176,8 @@ developing applications to streamline the process.
     Applied Field Data System (AFDS)/CenterPoint Energy (CNP), Houston,
     TX, USA.
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 **Achievements:**
 
 -   ⭐*Certificate for "Outstanding Technical Leadership", 2020*
