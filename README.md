@@ -52,7 +52,7 @@ to provide effective solutions in his career.
 
 -   Master of Computer Application from Sikkim Manipal University, 2010.
 
-![](media/image1.png)**Experience with WS Atkins India Pvt Ltd./SNC-Lavalin,
+**Experience with WS Atkins India Pvt Ltd./SNC-Lavalin,
 Bangalore, India. (January 2017 -- Till Date):**
 
 **Principal Solutions Architect:**
@@ -67,7 +67,7 @@ Experts.
 
 **Key** **Projects/Products:**
 
-(1) [DTS VUEWorks:]{.underline} This solution is an Enterprise Asset
+(1) _DTS VUEWorks:_ This solution is an Enterprise Asset
     Management System, which is deeply established based on Geospatial
     and tabular datasets along with Work-Order Management, Service
     Request Management, and Reporting needs. It also includes a
@@ -78,23 +78,23 @@ Experts.
     DevExpress Dashboard, Identity Provider, Microsoft Blazor, DevOps
     using BitBucket &Azure DevOps using YAML builds.
 
-(2) [DTS VUEWorks - MobileVUE:]{.underline} The project involved
+(2) _DTS VUEWorks - MobileVUE:_ The project involved
     maintenance and migration of the existing application from Telerik
     App-Builder into Apache Cordova application and bug-fix and feature
     enhancement. Version 1.4.6 has been released to users in both Apple
     App Store and Google Play Store (for the US region only).
 
-(3) [Atkins BIMViewer:]{.underline} This tool helps operator to use EAMS
+(3) _Atkins_ _BIMViewer_: This tool helps operator to use EAMS
     (i.e. VUEWorks) with 3D data from Autodesk Revit/AutoCAD to be able
     identify issue and corresponding management of live Assets. Building
     using Microsoft Blazor, Autodesk Forge
 
-(4) [DTS EarthShaper:]{.underline} This solution is provided Desktop
+(4) _DTS_ _EarthShaper:_ This solution is provided Desktop
     based solution used for Pavement and Asset-based information
     capturing on Camera Images capture with DTS AMS vans. Build using
     C++
 
-(5) [Integrated Data Management System (iDMS):]{.underline} This
+(5) _Integrated Data Management System (iDMS):_ This
     solution combines all your data related to assets into one place. It
     also helps develops asset maintenance strategies and makes key
     decisions. Built upon been Multi-tenancy and Scalability for
@@ -112,7 +112,7 @@ Rolta.
 
 **Key Projects/Products:**
 
-(1) [MODON, Saudi Industrial Ministry]{.underline}: This project is
+(1) _MODON, Saudi Industrial Ministry:_ This project is
     migrating their existing MODON Application on top of HTML5/JS/CSS3
     and Cordova. This is built for the use of the citizens regarding the
     Factories and Industrial directory it has an additional module to
@@ -120,14 +120,14 @@ Rolta.
     the public regarding issues or related problems with Factory present
     in their area.
 
-(2) [Rolta Unified Mobility]{.underline}: This product is developed on
+(2) _Rolta Unified Mobility:_ This product is developed on
     top of HTML5/JS/CSS3 and Cordova as a hybrid application for Mobile
     Development. This product is similar to Rolta OnField and is a GIS
     application that integrates into the market available ERP and
     SAP-based solutions that is for both connected & disconnected-based
     applications for catering to different market needs.
 
-(3) [Rolta OnField]{.underline}: Disconnect Mobile Editing Environment:
+(3) _Rolta OnField:_ Disconnect Mobile Editing Environment:
     This product developed on top of ESRI ArcGIS Mobile, ArcGIS Desktop
     9.3, ArcGIS Server (SOE) as well as Rolta IP custom modules (in C#,
     XML, SQL CE) for managing easy workflow in spatial and non-spatial
@@ -137,8 +137,8 @@ Rolta.
     network connectivity is zero or weak. Additionally, this product is
     part of Rolta OnPoint^TM^ Suites of Products & Services.
 
-(4) [Capital Projects Requirement Management System
-    (CAPRMS)]{.underline}: The project involved creating a Capacity
+(4) _Capital Projects Requirement Management System
+    (CAPRMS):_ The project involved creating a Capacity
     Resource Management & Service Request Management System for Ashghal
     (Public Work Department), Doha, Qatar. The technology uses OnPoint
     (Rolta IP Product), XML, and MOSS 2007.
@@ -153,15 +153,15 @@ developing applications to streamline the process.
 
 **Key Projects/Products:**
 
-(1) [Utility design and development for Australian Navigation System
-    (Project):]{.underline} The project involved creating a solution in
+(1) _Utility design and development for Australian Navigation System
+    (Project):_ The project involved creating a solution in
     which appropriation of the navigational dataset and address range
     against the given vector-based resources and various maps resources
     from the client (Sensis Pty) using Kosmo (OpenJUMP variant of
     Open-Source GIS) environment and Oracle 10g.
 
-(2) [Maintenance and Development for Work Order Tracking System
-    (WOTS)]{.underline}: The project involved direct coordination with
+(2) _Maintenance and Development for Work Order Tracking System
+    (WOTS):_ The project involved direct coordination with
     end-client for the maintenance development of their project
     monitoring system, which was used for reporting work carried out on
     ArcFM-based solutions and ESRI Utility Systems. This was a
