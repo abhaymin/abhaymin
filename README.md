@@ -52,8 +52,7 @@ to provide effective solutions in his career.
 
 -   Master of Computer Application from Sikkim Manipal University, 2010.
 
-![](media/image1.png){width="1.1534722222222222in"
-height="1.6in"}**Experience with WS Atkins India Pvt Ltd./SNC-Lavalin,
+![](media/image1.png)**Experience with WS Atkins India Pvt Ltd./SNC-Lavalin,
 Bangalore, India. (January 2017 -- Till Date):**
 
 **Principal Solutions Architect:**
