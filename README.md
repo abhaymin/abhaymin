@@ -101,8 +101,6 @@ Experts.
     targeting on-premises as well as cloud native (Azure) approach.
     Build using .Net Core 3.1, Azure SQL Server, Azure App Services
 
-**\
-**
 
 **Experience with Rolta India Ltd., Gurgaon, India. (June 2011 --
 December 2016):**
