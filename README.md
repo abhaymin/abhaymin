@@ -1,3 +1,7 @@
+<a href="https://www.linkedin.com/in/abhaymenon/" target="_blank">
+    <img height="25px" src="https://img.shields.io/badge/-linkedin-%230e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+  </a>
+
 **Position:**
 
 Solutions Architect
@@ -16,7 +20,7 @@ to provide effective solutions in his career.
 -   Insightful experience in process design, development, and
     implementation.
 
--   Languages: .Net, C/C++/C#, Shell scripting (BASH, DOS, PWSH)
+-   🖥️Languages: .Net, C/C++/C#, Shell scripting (BASH, DOS, PWSH)
 
 -   Knowledge of Database: Oracle 10g, MS SQL Server, SQLite, PostgreSQL
 
@@ -41,7 +45,7 @@ to provide effective solutions in his career.
 -   Working Knowledge of Azure Cloud, Azure DevOps (including Pipelines
     using YAML), PowerBI.
 
-**Education:**
+**🎓Education:**
 
 -   Higher National Diploma in Computing, Edexcel BTEC-UK, 2003.
 
@@ -174,17 +178,17 @@ developing applications to streamline the process.
 
 **Achievements:**
 
--   *Certificate for "Outstanding Technical Leadership", 2020*
+-   ⭐*Certificate for "Outstanding Technical Leadership", 2020*
 
--   *Rolta RPick Spot Award, Certificate of Excellence for Outstanding
+-   ⭐*Rolta RPick Spot Award, Certificate of Excellence for Outstanding
     Contribution Unified Mobility & Spatial Analyst Solutions in
     OnPoint^TM^ , 2014.*
 
--   *Certificate of Appreciation from US-Based Client (Applied Field
+-   ⭐*Certificate of Appreciation from US-Based Client (Applied Field
     Data System/CenterPoint Energy, Huston, TX), 2011.*
 
--   *Received RMSI Gold Star 2010 award 2010 for best performance &
+-   ⭐*Received RMSI Gold Star 2010 award 2010 for best performance &
     achievements in the current organization.*
 
--   *Received RMSI Gold Star 2006 award 2006 for best performance &
+-   ⭐*Received RMSI Gold Star 2006 award 2006 for best performance &
     achievements in the current organization.*
