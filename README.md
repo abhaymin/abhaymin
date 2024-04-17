@@ -99,7 +99,7 @@ He led the development team to build various software products for Rolta.
     9.3, ArcGIS Server (SOE) as well as Rolta IP custom modules (in C#, XML, SQL CE) for managing easy workflow in spatial and non-spatial
     tasks required by the client for external or field-based usage. OnField is a disconnected-based application that is best suited in
     environments like Mining, Forest Surveys, Field-Survey, etc., where network connectivity is zero or weak. Additionally, this product is
-    part of Rolta OnPoint^TM^ Suites of Products & Services.
+    part of Rolta OnPoint<sup>TM</sup> Suites of Products & Services.
 
 (4) _Capital Projects Requirement Management System (CAPRMS):_ The project involved creating a Capacity
     Resource Management & Service Request Management System for Ashghal (Public Work Department), Doha, Qatar. The technology uses OnPoint
