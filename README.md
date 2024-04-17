@@ -177,8 +177,7 @@ developing applications to streamline the process.
     TX, USA.
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
-**Achievements:**
+> **Achievements:**
 
 -   ⭐*Certificate for "Outstanding Technical Leadership", 2020*
 
