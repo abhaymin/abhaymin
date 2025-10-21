@@ -1,8 +1,9 @@
 <a href="https://www.linkedin.com/in/abhaymenon/" target="_blank">
     <img height="25px" src="https://img.shields.io/badge/-linkedin-%230e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
-
-  <iframe src="https://github.com/sponsors/abhaymin/button" title="Sponsor abhaymin" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+  <a href="https://github.com/sponsors/abhaymin" target="_blank">
+    <img height="25px" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="Sponsor" />
+  </a>
 
 **Position:**
 
