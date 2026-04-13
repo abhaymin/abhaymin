@@ -7,7 +7,7 @@
 
 **Position:**
 
-Solutions Architect
+Associate Technical Director
 
 **Summary:**
 
@@ -49,10 +49,10 @@ Applications. Abhay has used his skills in Azure Cloud and Azure DevOps to provi
 
 -   Master of Computer Application from Sikkim Manipal University, 2010.
 
-**Experience with WS Atkins India Pvt Ltd./SNC-Lavalin,
+**Experience with WS Atkins India Pvt Ltd./SNC-Lavalin (now AtkinsRéalis),
 Bangalore, India. (January 2017 -- Till Date):**
 
-**Principal Solutions Architect:**
+**Associate Technical Director:**
 
 His role is to architect and develop smart applications to support multiple projects and processes across digital space of the company. In
 day-to-day activity, establish solution and support both product-development team and customers on the product features or
